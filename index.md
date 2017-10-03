@@ -12,14 +12,6 @@ output: index.html
 
 --
 
-### What We Have
-
-* ALTO XML from the vendor
-* Solr index of our Fedora metadata
-* IIIF Presentation API service
-
---
-
 ### What We Wanted
 
 * Full-text search of OCR text
@@ -27,10 +19,18 @@ output: index.html
 
 --
 
+### What We Had
+
+* ALTO XML from the vendor
+* Solr index of our Fedora metadata
+* IIIF Presentation API service
+
+--
+
 ### Technology Choices
 
 * Web Annotations
-* <http://www.w3.org/TR/annotation-model/>
+* <https://www.w3.org/TR/annotation-model/>
 * <https://www.w3.org/TR/annotation-vocab/>
 * RDF-native
 * Annotation lists supported by IIIF
