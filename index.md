@@ -98,6 +98,14 @@ ADDRESSES|2698,2997,283,66 STUDENTS|3016,3000,254,63""" ;
 
 --
 
+### Full Text Search Challenges
+
+* Annotations are separate documents in Solr
+* Use Solr graph query to search annotations but return page results
+* Had to do a second query to get highlights
+
+--
+
 ### Dynamic Annotation Lists
 
 * Send query to Solr
