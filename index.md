@@ -112,3 +112,11 @@ ADDRESSES|2698,2997,283,66 STUDENTS|3016,3000,254,63""" ;
 ### System Interactions
 
 ![Hit Highlighting Flow](hit-highlight-flow.png)
+
+--
+
+### Results
+
+* Query: "student"
+
+  ![Hit Highlights](highlighted-results.png)
